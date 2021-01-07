@@ -1,0 +1,3 @@
+[submodule "pythonProjects/boilerplate-arithmetic-formatter"]
+	path = pythonProjects/boilerplate-arithmetic-formatter
+	url = https://github.com/freeCodeCamp/boilerplate-arithmetic-formatter
