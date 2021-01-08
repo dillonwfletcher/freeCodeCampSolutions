@@ -1,3 +1,5 @@
+If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-arithmetic-formatter-1#arithmetic_arranger.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests 
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
