@@ -7,4 +7,6 @@ You can reference my code if you get stuck on the projects, but do your best to 
 
 
 ### Scientific Computing with Python Projects
-[Arithmetic Formatter](https://github.com/dillonwfletcher/boilerplate-arithmetic-formatter/blob/master/arithmetic_arranger.py)
+
+- [Arithmetic Formatter](/pythonProjects/arithmeticFormatter/)
+- [Time Calculator](/pythonProjects/timeCalculator/)
