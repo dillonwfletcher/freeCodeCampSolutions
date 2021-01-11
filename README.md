@@ -7,5 +7,6 @@ You can reference my code if you get stuck on the projects, but do your best to 
 
 
 ### Scientific Computing with Python Projects
-[Arithmetic Formatter](/pythonProjects/arithmeticFormatter/)
-[Time Calculator](/pythonProjects/timeCalculator/)
+
+- [Arithmetic Formatter](/pythonProjects/arithmeticFormatter/)
+- [Time Calculator](/pythonProjects/timeCalculator/)
