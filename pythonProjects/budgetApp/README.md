@@ -1,3 +1,7 @@
+If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-budget-app#budget.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
+
+You can watch me code this project on YouTube from start to finish <a href="">here</a>!
+
 ### Assignment
 
 Complete the `Category` class in `budget.py`. It should be able to instantiate objects based on different budget categories like *food*, *clothing*, and *entertainment*. When objects are created, they are passed in the name of the category. The class should have an instance variable called `ledger` that is a list. The class should also contain the following methods:
