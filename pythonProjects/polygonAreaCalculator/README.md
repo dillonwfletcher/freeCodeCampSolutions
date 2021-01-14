@@ -1,3 +1,7 @@
+If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-polygon-area-calculator#shape_calculator.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
+
+You can watch me code this project on YouTube from start to finish <a href="https://youtu.be/JvRVa1sbwk8">here</a>!
+
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
@@ -60,18 +64,3 @@ Square(side=4)
 
 8
 ```
-
-The unit tests for this project are in `test_module.py`.
-
-### Development
-
-Write your code in `shape_calculator.py`. For development, you can use `main.py` to test your `shape_calculator()` function. Click the "run" button and `main.py` will run.
-
-### Testing 
-
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
-
