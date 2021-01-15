@@ -7,7 +7,12 @@ You can reference my code if you get stuck on the projects, but do your best to 
 
 
 ### Scientific Computing with Python Projects
-
 - [Arithmetic Formatter](/pythonProjects/arithmeticFormatter/)
 - [Time Calculator](/pythonProjects/timeCalculator/)
 - [Budget App](/pythonProjects/budgetApp/)
+- [Polygon Area Calculator](/pythonProjects/polygonAreaCalculator/)
+- [Probability Calculator](/pythonProjects/probabilityCalculator/)
+
+
+### freeCodeCamp Certifications
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/dillonwfletcher/scientific-computing-with-python-v7)
