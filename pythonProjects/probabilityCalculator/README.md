@@ -1,6 +1,6 @@
 If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-probability-calculator#prob_calculator.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
 
-You can watch me code this project on YouTube from start to finish <a href="https://youtu.be/JvRVa1sbwk8">here</a>!
+You can watch me code this project on YouTube from start to finish <a href="https://youtu.be/qxnL9Y7QwKg">here</a>!
 
 ### Assignment
 
