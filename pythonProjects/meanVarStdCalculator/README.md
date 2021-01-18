@@ -1,3 +1,7 @@
+If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-mean-variance-standard-deviation-calculator#mean_var_std.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
+
+You can watch me code this project on YouTube from start to finish <a href="https://www.youtube.com/watch?v=pvFIeF28ShY">here</a>!
+
 ### Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
