@@ -16,10 +16,11 @@ You can reference my code if you get stuck on the projects, but do your best to 
 ### Data Analysis with Python Projects IN PROGRESS
 - [Mean-Variance-Standard Deviation Calculator](/pythonProjects/meanVarStdCalculator/)
 - [Demographic Data Analyzer](/pythonProjects/demographicDataAnalyzer/)
-- [Medical Data Visualizer: TODO]()
-- [Page View Time Series Visualizer: TODO]()
-- [Sea Level Predictor: TODO]()
+- [Medical Data Visualizer](/pythonProjects/medicalDataVisualizer/)
+- [Page View Time Series Visualizer](/pythonProjects/pageViewTimeSeriesVisualizer/)
+- [Sea Level Predictor](/pythonProjects/seaLevelPredictor/)
 
 
 ### freeCodeCamp Certifications
 - [Scientific Computing with Python](https://www.freecodecamp.org/certification/dillonwfletcher/scientific-computing-with-python-v7)
+- [Data Analysis with Python](https://www.freecodecamp.org/certification/dillonwfletcher/data-analysis-with-python-v7)
