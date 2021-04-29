@@ -1,7 +1,3 @@
-If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-polygon-area-calculator#shape_calculator.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
-
-You can watch me code this project on YouTube from start to finish <a href="https://youtu.be/JvRVa1sbwk8">here</a>!
-
 ### Assignment
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
