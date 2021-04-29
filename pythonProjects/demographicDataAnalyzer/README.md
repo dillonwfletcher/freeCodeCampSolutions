@@ -1,7 +1,3 @@
-If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-demographic-data-analyzer#demographic_data_analyzer.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
-
-You can watch me code this project on YouTube from start to finish <a href="https://www.youtube.com/watch?v=pvFIeF28ShY">here</a>!
-
 ### Assignment
 
 # Demographic Data Analyzer
