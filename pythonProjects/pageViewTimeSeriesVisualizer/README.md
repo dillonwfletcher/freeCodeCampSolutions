@@ -1,7 +1,3 @@
-If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-page-view-time-series-visualizer#time_series_visualizer.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
-
-You can watch me code this project on YouTube from start to finish <a href="https://www.youtube.com/watch?v=pvFIeF28ShY">here</a>!
-
 ### Assignment
 
 For this project you will visualize time series data using a line chart, bar chart, and box plots. You will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the number of page views each day on the freeCodeCamp.org forum from 2016-05-09 to 2019-12-03. The data visualizations will help you understand the patterns in visits and identify yearly and monthly growth.
