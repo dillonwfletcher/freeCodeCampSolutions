@@ -1,4 +1,3 @@
-If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-time-calculator#time_calculator.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests 
 
 ### Assignment
 
