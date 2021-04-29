@@ -8,7 +8,7 @@ My solutions to freeCodeCamp projects/problems
 - [Polygon Area Calculator](/pythonProjects/polygonAreaCalculator/)
 - [Probability Calculator](/pythonProjects/probabilityCalculator/)
 
-### Data Analysis with Python Projects IN PROGRESS
+### Data Analysis with Python Projects
 - [Mean-Variance-Standard Deviation Calculator](/pythonProjects/meanVarStdCalculator/)
 - [Demographic Data Analyzer](/pythonProjects/demographicDataAnalyzer/)
 - [Medical Data Visualizer](/pythonProjects/medicalDataVisualizer/)
