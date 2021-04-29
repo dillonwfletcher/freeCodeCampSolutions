@@ -1,8 +1,3 @@
-If you want to check out my solution in action, <a href="https://repl.it/@dillonwfletcher/boilerplate-sea-level-predictor#sea_level_predictor.py">click here!</a> This takes you to Repl.it where you can interact with my solution and see that it passes all the tests
-
-You can watch me code this project on YouTube from start to finish <a href="https://www.youtube.com/watch?v=pvFIeF28ShY">here</a>!
-
-
 ### Assignment
 
 You will anaylize a dataset of the global average sea level change since 1880. You will use the data to predict the sea level change through year 2050.
